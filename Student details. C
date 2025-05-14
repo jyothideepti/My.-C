@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main() 
+{
+    printf("name=jyothi\n");
+    printf("DOB\n");
+    printf("age\n");
+    printf("mobile no\n");
+}
+int main() 
+{
+    shridevi() ;
+    return 0;
+}
