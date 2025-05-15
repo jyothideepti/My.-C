@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main() {
+    int p, num = 42;
+    int *ptr;               
+ptr = &num;           
+printf("Address of num: %p\n",p);
+printf("Value of num: %d\n", *ptr);
+return 0;
+}
+output
+Address of num: (nil)
+Value of num: 42
+
+
+=== Code Execution Successful ===
